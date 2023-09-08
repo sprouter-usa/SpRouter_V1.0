@@ -12,3 +12,4 @@ Included in this repository are:
 2. The .STL files for the various 3D printed housings and components.
 3. List of additional hardware and parts needed for assembly.
 4. Design calculations and notes.
+5. Wiki for installation, integration, and use of device.
