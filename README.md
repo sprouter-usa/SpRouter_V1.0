@@ -1,0 +1,1 @@
+The SpRouter project is an open-source effort to bridge the gap between the humble Router and the much more capable Spindle. Born out of the world of CNC woodworking, the Spindle -> Router aka "SpRouter" aims to provide the beneficial features of a Spindle unit to an off the self Router.
