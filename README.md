@@ -10,7 +10,7 @@ The initial version of the SpRouter was designed for use with the OneFinity Elit
 
 <ins>Included in this repository are:</ins>
 1. The KiCAD design files and BOM's for the circuit boards.
-2. The .STL files for the various 3D printed housings and components.
+2. Design files for the various 3D printed components.
 3. List of additional hardware and parts needed for assembly.
 4. Design calculations and notes.
 5. Wiki for installation, integration, and use of device.
