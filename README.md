@@ -1,4 +1,5 @@
-# The SpRouter project is an open-source effort to bridge the gap between the humble Router and the much more capable Spindle. Born out of the world of CNC woodworking, the Spindle -> Router aka "SpRouter" aims to provide the beneficial features of a Spindle unit to an off-the-self Router. 
+# What is the SpRouter project?
+The SpRouter project is an open-source effort to bridge the gap between the humble Router and the much more capable Spindle. Born out of the world of CNC woodworking, the Spindle -> Router aka "SpRouter" aims to provide the beneficial features of a Spindle unit to an off-the-self Router. 
 
 <ins>These features include:</ins>
 1. Accurate cutter RPM measurement and display.
@@ -15,6 +16,6 @@ The initial version of the SpRouter was designed for use with the OneFinity Elit
 4. Design calculations and notes.
 5. Wiki for installation, integration, and use of device.
 
-While all of the necessary information to make the SpRouter yourself is contained in this repository, it can also be purchased in two forms on eBay with a simple "SpRouter" as the search query.
+All of the necessary information to make the SpRouter yourself is contained in this repository, however if would prefer to simply buy a prebuilt kit, it can also be purchased in the two forms described below. Check us out at [www.sprouterusa.com](url) for the best and most exclusive deals!
 
 Form #1 is a "DIY" kit that contains the SpRouter and all the necessary cables and hardware needed to install it as one would expect. However, since the installation requires a small amount of soldering to wires inside the Router housing we also offer a second form where the necessary modifications inside the router have already been performed by us. Thus, form #2 contains the SpRouter and all the necessary cables and hardware in addition to a brand new, yet modified Makita RT0701C router.
